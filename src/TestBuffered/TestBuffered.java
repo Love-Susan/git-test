@@ -7,6 +7,7 @@ public class TestBuffered {
         String str = "zhangsan";
         System.out.println("Hello git");
         System.out.println("Hello gitHub");
+        System.out.println("Hello gitHub1111");
 
         System.out.println("str=" + str);
 
