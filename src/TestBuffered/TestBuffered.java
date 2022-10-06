@@ -11,6 +11,7 @@ public class TestBuffered {
         System.out.println("Hello gitHub44444");
         System.out.println("master test1");
         System.out.println("hot-fix commit2");
+        System.out.println("gitee test");
 
         System.out.println("str=" + str);
 
